@@ -1,0 +1,1 @@
+Questo è un file di testo qualunque richiesto per l'esercizio.
